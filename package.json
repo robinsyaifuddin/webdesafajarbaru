@@ -1,8 +1,8 @@
 {
   "name": "vite_react_shadcn_ts",
   "private": true,
-  "homepage": "https://robinsyaifuddin.github.io/webdesafajarbaru"
   "version": "0.0.0",
+  "homepage": "https://robinsyaifuddin.github.io/webdesafajarbaru",
   "type": "module",
   "scripts": {
     "dev": "vite",
